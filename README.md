@@ -16,3 +16,4 @@ hardware
 * 2 5way Nav switch
 * joystick
 * 7 key + 1 swtich
+* scroll encoder
