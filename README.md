@@ -1,6 +1,9 @@
 # tckmj
 the cat keyboard mouse joystick
 
+## 20240813 更新 pmw3610能切換cpi了
+
+
 * stm32f103c8t6 bull pill
 * [maple bootloader](https://github.com/rogerclarkmelbourne/STM32duino-bootloader)https://github.com/rogerclarkmelbourne/STM32duino-bootloader
   
