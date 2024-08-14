@@ -20,3 +20,8 @@ hardware
 * joystick
 * 7 key + 1 swtich
 * scroll encoder
+
+## pmw3610 breakout board
+* https://github.com/ufan/pmw3610_breakout
+* 板子上共有 VCC GND SDIO SCLK NCS RESET int 7支腳，其中RESET和int不用接(USB傳輸的情況下)  
+* 跳線PAD焊上P2P3
